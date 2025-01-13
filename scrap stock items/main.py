@@ -1,4 +1,4 @@
-import crawler  # crawler.py 모듈을 불러옴
+import Crawling_listed_companies as crawler # crawler.py 모듈을 불러옴
 
 def main():
     # 모든 회사 데이터를 가져오기
